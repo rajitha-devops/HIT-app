@@ -1,0 +1,115 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+.topbar{
+    width: 100%;
+    height: auto;
+    margin: 0%;
+}
+.topbar{
+    width: 100%;
+    height:auto;
+    padding: 5px;
+    background-color:green;
+    
+    
+} 
+.topbar a{
+    color: white;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.info, .follow{
+    width: 50%;
+    
+}
+.follow {
+    text-align: end;
+    padding-right: 0%;
+    
+}
+.follow i{
+    margin: 10px;
+}
+.info a{
+    padding-left: 50px;
+    text-decoration: none;
+}
+header{
+    width: 100%;
+    height: auto;
+    border-bottom: 1px solid gray;
+    
+}
+.logo{
+    width: 30%;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+nav{
+    padding-top: 25px;
+
+}
+nav ul li{
+    width: 70%;
+    display: inline;
+    margin: 5px;
+    
+}
+.bg{
+    width: 100%;
+    padding: 0px;
+    
+}
+.gan{
+    text-align: justify;
+}
+.dom{
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.jan{
+    text-align: center;
+}
+form{
+    border: 1px solid
+}
+button{
+    background-color: orange;
+    width: 50%;
+    height: 30%;
+    margin-bottom: 2px;
+
+}
+.courses{
+    background-color: rgb(211, 202, 202);
+    height:100%
+}
+h2{
+    text-align: center;
+}
+.card{
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 1px 1px;
+}
+.card-title{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.ww{
+    margin-top: 20px;
+}
+.kk{
+    padding-bottom: 20px;
+}
